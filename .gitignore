@@ -1,0 +1,7 @@
+/plugin/packer_compiled.lua
+/lua/archvim/predownload
+/.build_cache
+*.bak
+a.out
+__pycache__/
+*.backup.*
